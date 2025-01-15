@@ -1,0 +1,40 @@
+Ats Resume:
+streamlit==1.24.0
+google_generativeai
+python_dotenv
+PyPDF2
+
+Chat with PDFs:
+streamlit==1.24.0
+google_generativeai
+python_dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+
+Text to SQL Query Generator:
+streamlit==1.24.0
+google_generativeai
+python_dotenv
+os
+io
+csv
+sqlite3
+
+Health View:
+streamlit==1.24.0
+python_dotenv
+PIL
+os
+google_generativeai
+
+
+Youtube video transcriber & chat with Video content:
+youtube_transcript_api
+streamlit==1.24.0
+google_generativeai
+python_dotenv
+langchain
+faiss-cpu
+langchain_google_genai
